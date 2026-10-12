@@ -26,6 +26,9 @@ Analysis of customer shopping behavior using Python, SQL Server and Power BI.
 2. Built the Customer Behavior Analysis dashboard with KPI cards (total customers, average order value, average rating).
 3. Added visuals for customers by subscription status, revenue and customers by category, and revenue and customers by age group.
 4. Added slicers for subscription status, gender, category and shipment type.
+## Dashboard Preview
+
+![Customer Behavior Analysis Dashboard](DashboardScreenshot.png)
 
 ## Dataset Overview
 
