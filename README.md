@@ -4,7 +4,7 @@ Analysis of customer shopping behavior using Python, SQL Server and Power BI.
 
 ## Project Workflow
 
-### 1. Data preparation in Python (Jupyter notebook)
+### 1. Data preparation in Python
 
 1. Loaded `customer_shopping_behavior.csv` with pandas and checked the shape and null counts.
 2. Filled missing `Review Rating` values with the median rating of each product category.
